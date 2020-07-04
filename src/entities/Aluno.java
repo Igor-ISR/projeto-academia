@@ -54,7 +54,7 @@ public class Aluno {
 		this.email = email;
 	}
 	public String toString() {
-		return ("Nome: " + this.name + "\nIdade: " + idade + "\nEndereço: " + endereco + "\nTelefone: " + telefone + "\ne-mail: " + email + "\n"); 
+		return ("Nome: " + name + "\nIdade: " + idade + "\nEndereço: " + endereco + "\nTelefone: " + telefone + "\ne-mail: " + email + "\n"); 
 	}
  
 }
