@@ -108,4 +108,10 @@ opcao = (int) escolha do item no menu principal
 	email = (String)
 consulta = (int) Consulta de aluno específico a partir de sua matrícula (posição na lista)
 edição = (int) filtro para edição de cadastro do aluno
+	ALTERAÇÃO NO CADASTRO DO ALUNO 
+	novoNome = (String)
+	novaIdade = (int)
+	novoEndereco = (String)
+	novoTelefone = (String)
+	email = (String)
 exclusão = (int) exclusão de cadastro do aluno*/
